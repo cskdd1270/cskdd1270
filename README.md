@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20GitHub%20ProFile&fontSize=40)
 <div align="center">
-안녕하세요 :blush: <br><br> 백엔드를 개발자 최성현 이라고 합니다
+안녕하세요 <br><br> 백엔드를 개발자 최성현 입니다  :blush:
  <br><br>
  <h3>Skill :pushpin: </h3>
  <br>
